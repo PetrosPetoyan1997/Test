@@ -29,9 +29,7 @@ const stop = autorun(() => {
 
 stop()
 
-let b = 456789;
-let a = 4567890;
-console.log(order.total);
+const a = 777777777777;
 
 
 // Neither the computation nor autorun will be recomputed.

@@ -30,10 +30,7 @@ const stop = autorun(() => {
 stop()
 
 
-console.log(order.total)
-console.log(order.total)
-console.log(order.total)
-console.log(order.total)
+console.log(order.total);
 
 
 // Neither the computation nor autorun will be recomputed.

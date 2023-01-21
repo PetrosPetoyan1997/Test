@@ -29,7 +29,8 @@ const stop = autorun(() => {
 
 stop()
 
-
+let b = 456789;
+let a = 4567890;
 console.log(order.total);
 
 
